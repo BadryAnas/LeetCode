@@ -5,5 +5,6 @@ This repository documents my effort to enhance my skills through dedicated pract
 ## Database
 |  |
 | ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/BadryAnas/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/BadryAnas/LeetCode/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
