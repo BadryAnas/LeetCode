@@ -9,6 +9,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/BadryAnas/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/BadryAnas/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/BadryAnas/LeetCode/tree/master/0584-find-customer-referee) |
+| [1161-project-employees-i](https://github.com/BadryAnas/LeetCode/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/BadryAnas/LeetCode/tree/master/1258-article-views-i) |
 | [1415-students-and-examinations](https://github.com/BadryAnas/LeetCode/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/BadryAnas/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
