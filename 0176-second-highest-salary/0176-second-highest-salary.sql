@@ -3,8 +3,8 @@ declare @num int;
 select top(1)  @num = salary  
 from
 (
-    select top(2) salary
-    from
+    select top(2) *
+    from 
     (
         select distinct salary from employee
     ) as t
