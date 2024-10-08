@@ -6,6 +6,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/BadryAnas/LeetCode/tree/master/0180-consecutive-numbers) |
+| [0196-delete-duplicate-emails](https://github.com/BadryAnas/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/BadryAnas/LeetCode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/BadryAnas/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/BadryAnas/LeetCode/tree/master/0577-employee-bonus) |
