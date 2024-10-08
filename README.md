@@ -19,6 +19,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | [1338-queries-quality-and-percentage](https://github.com/BadryAnas/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 | [1415-students-and-examinations](https://github.com/BadryAnas/LeetCode/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/BadryAnas/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1670-patients-with-a-condition](https://github.com/BadryAnas/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/BadryAnas/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/BadryAnas/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/BadryAnas/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
