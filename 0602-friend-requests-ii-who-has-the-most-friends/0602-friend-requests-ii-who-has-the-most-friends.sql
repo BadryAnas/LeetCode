@@ -1,5 +1,5 @@
 /* Write your T-SQL query statement below */
-with newTable (id)
+with newTable 
 as
 (
     select requester_id as id from RequestAccepted
