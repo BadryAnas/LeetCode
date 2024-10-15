@@ -37,4 +37,12 @@ This repository documents my effort to enhance my skills through dedicated pract
 | [1942-primary-department-for-each-employee](https://github.com/BadryAnas/LeetCode/tree/master/1942-primary-department-for-each-employee) |
 | [2087-confirmation-rate](https://github.com/BadryAnas/LeetCode/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/BadryAnas/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/BadryAnas/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/BadryAnas/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
