@@ -54,6 +54,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | [0118-pascals-triangle](https://github.com/BadryAnas/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/BadryAnas/LeetCode/tree/master/0169-majority-element) |
 | [0605-can-place-flowers](https://github.com/BadryAnas/LeetCode/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/BadryAnas/LeetCode/tree/master/0724-find-pivot-index) |
 | [0965-unique-email-addresses](https://github.com/BadryAnas/LeetCode/tree/master/0965-unique-email-addresses) |
 ## Dynamic Programming
 |  |
@@ -85,4 +86,8 @@ This repository documents my effort to enhance my skills through dedicated pract
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/BadryAnas/LeetCode/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/BadryAnas/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
