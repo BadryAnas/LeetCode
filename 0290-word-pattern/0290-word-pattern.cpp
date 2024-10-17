@@ -5,8 +5,7 @@ public:
         vector<string>words;
         map<char , string>mp1;
         map<string , char>mp2;
-        map<char , bool>appear1;
-        map<string , bool>appear2;
+
         string word="";
 
         for(int i = 0; i < s.size() ; i++)
@@ -31,18 +30,16 @@ public:
 
         for(int i = 0 ; i < pattern.size() ; i++)
         {
-            if(!appear1[pattern[i]])
+            if(mp1.count(pattern[i]) == 0)
             {
-                appear1[pattern[i]] = true;
                 mp1[pattern[i]] = words[i];
             }
             else if(mp1[pattern[i]]!= words[i])
             {
                 return false;
             }
-            if(!appear2[words[i]])
+            if(mp2.count(words[i]) == 0)
             {
-                appear2[words[i]] = true;
                 mp2[words[i]] = pattern[i];
             }
             else if(mp2[words[i]] != pattern[i])
