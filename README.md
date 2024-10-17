@@ -43,6 +43,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | [0014-longest-common-prefix](https://github.com/BadryAnas/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/BadryAnas/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0965-unique-email-addresses](https://github.com/BadryAnas/LeetCode/tree/master/0965-unique-email-addresses) |
+| [1297-maximum-number-of-balloons](https://github.com/BadryAnas/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 ## Trie
 |  |
 | ------- |
@@ -72,6 +73,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | [0205-isomorphic-strings](https://github.com/BadryAnas/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BadryAnas/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0965-unique-email-addresses](https://github.com/BadryAnas/LeetCode/tree/master/0965-unique-email-addresses) |
+| [1297-maximum-number-of-balloons](https://github.com/BadryAnas/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 ## Greedy
 |  |
 | ------- |
@@ -88,6 +90,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/BadryAnas/LeetCode/tree/master/0169-majority-element) |
+| [1297-maximum-number-of-balloons](https://github.com/BadryAnas/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 ## Prefix Sum
 |  |
 | ------- |
