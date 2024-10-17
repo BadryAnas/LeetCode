@@ -52,6 +52,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | ------- |
 | [0027-remove-element](https://github.com/BadryAnas/LeetCode/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/BadryAnas/LeetCode/tree/master/0118-pascals-triangle) |
+| [0605-can-place-flowers](https://github.com/BadryAnas/LeetCode/tree/master/0605-can-place-flowers) |
 | [0965-unique-email-addresses](https://github.com/BadryAnas/LeetCode/tree/master/0965-unique-email-addresses) |
 ## Dynamic Programming
 |  |
@@ -66,4 +67,8 @@ This repository documents my effort to enhance my skills through dedicated pract
 | ------- |
 | [0205-isomorphic-strings](https://github.com/BadryAnas/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0965-unique-email-addresses](https://github.com/BadryAnas/LeetCode/tree/master/0965-unique-email-addresses) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/BadryAnas/LeetCode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
