@@ -41,6 +41,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/BadryAnas/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/BadryAnas/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0965-unique-email-addresses](https://github.com/BadryAnas/LeetCode/tree/master/0965-unique-email-addresses) |
 ## Trie
 |  |
@@ -63,5 +64,6 @@ This repository documents my effort to enhance my skills through dedicated pract
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/BadryAnas/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0965-unique-email-addresses](https://github.com/BadryAnas/LeetCode/tree/master/0965-unique-email-addresses) |
 <!---LeetCode Topics End-->
