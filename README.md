@@ -41,6 +41,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/BadryAnas/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/BadryAnas/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/BadryAnas/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/BadryAnas/LeetCode/tree/master/0290-word-pattern) |
 | [0965-unique-email-addresses](https://github.com/BadryAnas/LeetCode/tree/master/0965-unique-email-addresses) |
@@ -53,6 +54,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/BadryAnas/LeetCode/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/BadryAnas/LeetCode/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/BadryAnas/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/BadryAnas/LeetCode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BadryAnas/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -70,6 +72,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/BadryAnas/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/BadryAnas/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/BadryAnas/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/BadryAnas/LeetCode/tree/master/0290-word-pattern) |
@@ -87,6 +90,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/BadryAnas/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/BadryAnas/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
