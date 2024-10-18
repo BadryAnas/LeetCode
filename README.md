@@ -57,6 +57,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | [0036-valid-sudoku](https://github.com/BadryAnas/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/BadryAnas/LeetCode/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/BadryAnas/LeetCode/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/BadryAnas/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/BadryAnas/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/BadryAnas/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BadryAnas/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -76,6 +77,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | ------- |
 | [0036-valid-sudoku](https://github.com/BadryAnas/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/BadryAnas/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/BadryAnas/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/BadryAnas/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/BadryAnas/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/BadryAnas/LeetCode/tree/master/0290-word-pattern) |
@@ -124,4 +126,8 @@ This repository documents my effort to enhance my skills through dedicated pract
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/BadryAnas/LeetCode/tree/master/0036-valid-sudoku) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/BadryAnas/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
