@@ -54,6 +54,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/BadryAnas/LeetCode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/BadryAnas/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/BadryAnas/LeetCode/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/BadryAnas/LeetCode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/BadryAnas/LeetCode/tree/master/0169-majority-element) |
@@ -73,6 +74,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/BadryAnas/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/BadryAnas/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/BadryAnas/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/BadryAnas/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -118,4 +120,8 @@ This repository documents my effort to enhance my skills through dedicated pract
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/BadryAnas/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/BadryAnas/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
