@@ -64,6 +64,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | [0169-majority-element](https://github.com/BadryAnas/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/BadryAnas/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BadryAnas/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/BadryAnas/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/BadryAnas/LeetCode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/BadryAnas/LeetCode/tree/master/0724-find-pivot-index) |
 | [0965-unique-email-addresses](https://github.com/BadryAnas/LeetCode/tree/master/0965-unique-email-addresses) |
@@ -89,6 +90,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | [0347-top-k-frequent-elements](https://github.com/BadryAnas/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BadryAnas/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/BadryAnas/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0560-subarray-sum-equals-k](https://github.com/BadryAnas/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0965-unique-email-addresses](https://github.com/BadryAnas/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1297-maximum-number-of-balloons](https://github.com/BadryAnas/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 ## Greedy
@@ -117,6 +119,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/BadryAnas/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/BadryAnas/LeetCode/tree/master/0724-find-pivot-index) |
 ## Heap (Priority Queue)
 |  |
