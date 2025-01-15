@@ -48,6 +48,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | [0965-unique-email-addresses](https://github.com/BadryAnas/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1297-maximum-number-of-balloons](https://github.com/BadryAnas/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/BadryAnas/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/BadryAnas/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Trie
 |  |
 | ------- |
@@ -79,6 +80,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | ------- |
 | [0027-remove-element](https://github.com/BadryAnas/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/BadryAnas/LeetCode/tree/master/0075-sort-colors) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/BadryAnas/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +102,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/BadryAnas/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/BadryAnas/LeetCode/tree/master/0605-can-place-flowers) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/BadryAnas/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -156,4 +159,8 @@ This repository documents my effort to enhance my skills through dedicated pract
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/BadryAnas/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Stack
+|  |
+| ------- |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/BadryAnas/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
