@@ -42,6 +42,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | ------- |
 | [0014-longest-common-prefix](https://github.com/BadryAnas/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/BadryAnas/LeetCode/tree/master/0049-group-anagrams) |
+| [0187-repeated-dna-sequences](https://github.com/BadryAnas/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/BadryAnas/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/BadryAnas/LeetCode/tree/master/0290-word-pattern) |
 | [0535-encode-and-decode-tinyurl](https://github.com/BadryAnas/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
@@ -88,6 +89,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | [0049-group-anagrams](https://github.com/BadryAnas/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/BadryAnas/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/BadryAnas/LeetCode/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/BadryAnas/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/BadryAnas/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/BadryAnas/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/BadryAnas/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -154,13 +156,23 @@ This repository documents my effort to enhance my skills through dedicated pract
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/BadryAnas/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0535-encode-and-decode-tinyurl](https://github.com/BadryAnas/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/BadryAnas/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/BadryAnas/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Stack
 |  |
 | ------- |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/BadryAnas/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/BadryAnas/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/BadryAnas/LeetCode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
