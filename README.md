@@ -47,6 +47,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | [0535-encode-and-decode-tinyurl](https://github.com/BadryAnas/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0965-unique-email-addresses](https://github.com/BadryAnas/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1297-maximum-number-of-balloons](https://github.com/BadryAnas/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/BadryAnas/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Trie
 |  |
 | ------- |
@@ -93,6 +94,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | [0560-subarray-sum-equals-k](https://github.com/BadryAnas/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0965-unique-email-addresses](https://github.com/BadryAnas/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1297-maximum-number-of-balloons](https://github.com/BadryAnas/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/BadryAnas/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Greedy
 |  |
 | ------- |
@@ -121,6 +123,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/BadryAnas/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/BadryAnas/LeetCode/tree/master/0724-find-pivot-index) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/BadryAnas/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -149,4 +152,8 @@ This repository documents my effort to enhance my skills through dedicated pract
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/BadryAnas/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/BadryAnas/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
