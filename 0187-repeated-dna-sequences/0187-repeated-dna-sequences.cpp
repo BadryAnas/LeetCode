@@ -14,9 +14,7 @@ public:
         for(int  j = 10 ; j < s.size() ;j++)
         {
             str.erase(0 ,1);
-            cout<<str<<" ";
             str = str + s[j];
-            cout<<str<<" lol ";
             mp[str]++;
         }
 
