@@ -42,6 +42,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | ------- |
 | [0014-longest-common-prefix](https://github.com/BadryAnas/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/BadryAnas/LeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/BadryAnas/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/BadryAnas/LeetCode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/BadryAnas/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/BadryAnas/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -84,6 +85,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | ------- |
 | [0027-remove-element](https://github.com/BadryAnas/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/BadryAnas/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/BadryAnas/LeetCode/tree/master/0125-valid-palindrome) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/BadryAnas/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Hash Table
 |  |
