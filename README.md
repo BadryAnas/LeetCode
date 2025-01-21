@@ -62,6 +62,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/BadryAnas/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/BadryAnas/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/BadryAnas/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/BadryAnas/LeetCode/tree/master/0049-group-anagrams) |
@@ -88,6 +89,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/BadryAnas/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/BadryAnas/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/BadryAnas/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/BadryAnas/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -131,6 +133,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/BadryAnas/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/BadryAnas/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/BadryAnas/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/BadryAnas/LeetCode/tree/master/0088-merge-sorted-array) |
