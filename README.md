@@ -70,6 +70,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | [0118-pascals-triangle](https://github.com/BadryAnas/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/BadryAnas/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/BadryAnas/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/BadryAnas/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/BadryAnas/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/BadryAnas/LeetCode/tree/master/0179-largest-number) |
 | [0283-move-zeroes](https://github.com/BadryAnas/LeetCode/tree/master/0283-move-zeroes) |
@@ -91,6 +92,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | [0075-sort-colors](https://github.com/BadryAnas/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/BadryAnas/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/BadryAnas/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/BadryAnas/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/BadryAnas/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/BadryAnas/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/BadryAnas/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -194,4 +196,8 @@ This repository documents my effort to enhance my skills through dedicated pract
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/BadryAnas/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/BadryAnas/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
