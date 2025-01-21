@@ -72,6 +72,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | [0128-longest-consecutive-sequence](https://github.com/BadryAnas/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/BadryAnas/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/BadryAnas/LeetCode/tree/master/0179-largest-number) |
+| [0283-move-zeroes](https://github.com/BadryAnas/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/BadryAnas/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BadryAnas/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/BadryAnas/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -90,6 +91,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | [0075-sort-colors](https://github.com/BadryAnas/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/BadryAnas/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/BadryAnas/LeetCode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/BadryAnas/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/BadryAnas/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/BadryAnas/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/BadryAnas/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
