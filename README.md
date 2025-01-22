@@ -62,6 +62,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BadryAnas/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/BadryAnas/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/BadryAnas/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/BadryAnas/LeetCode/tree/master/0036-valid-sudoku) |
@@ -89,6 +90,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BadryAnas/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/BadryAnas/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/BadryAnas/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/BadryAnas/LeetCode/tree/master/0075-sort-colors) |
@@ -120,6 +122,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BadryAnas/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/BadryAnas/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/BadryAnas/LeetCode/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/BadryAnas/LeetCode/tree/master/0605-can-place-flowers) |
