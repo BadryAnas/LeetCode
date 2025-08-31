@@ -17,6 +17,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | [0595-big-countries](https://github.com/BadryAnas/LeetCode/tree/master/0595-big-countries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/BadryAnas/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/BadryAnas/LeetCode/tree/master/0610-triangle-judgement) |
+| [1153-product-sales-analysis-i](https://github.com/BadryAnas/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/BadryAnas/LeetCode/tree/master/1161-project-employees-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/BadryAnas/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/BadryAnas/LeetCode/tree/master/1258-article-views-i) |
