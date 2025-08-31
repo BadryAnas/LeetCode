@@ -1,4 +1,4 @@
 /* Write your T-SQL query statement below */
-select unique_id  ,name     
-from Employees E LEFT OUTER JOIN EmployeeUNI EI
-ON E.ID = EI.ID  
+select unique_id , name     
+from Employees e left join EmployeeUNI  ee
+on e.id = ee.id 
