@@ -14,6 +14,7 @@ This repository documents my effort to enhance my skills through dedicated pract
 | [0577-employee-bonus](https://github.com/BadryAnas/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/BadryAnas/LeetCode/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/BadryAnas/LeetCode/tree/master/0585-investments-in-2016) |
+| [0595-big-countries](https://github.com/BadryAnas/LeetCode/tree/master/0595-big-countries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/BadryAnas/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/BadryAnas/LeetCode/tree/master/0610-triangle-judgement) |
 | [1161-project-employees-i](https://github.com/BadryAnas/LeetCode/tree/master/1161-project-employees-i) |
