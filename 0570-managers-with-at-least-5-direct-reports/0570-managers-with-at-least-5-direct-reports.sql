@@ -1,9 +1,7 @@
-select mngr.name   
-from employee emp , employee mngr
-where mngr.id = emp.managerId
-group by  mngr.name , mngr.id 
-having count(emp.managerId) >= 5 
-  
------------------------------
-
-     
+/* Write your T-SQL query statement below */
+SELECT name 
+from employee 
+where id in (select managerid 
+            from employee
+            group by managerid
+            having count(*) >= 5 )
